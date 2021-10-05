@@ -1,0 +1,11 @@
+.optionBtn {
+  margin-right: 15px;
+  cursor: pointer;
+  text-transform: capitalize;
+  border-radius: 5px;
+}
+
+.optionBtn:hover {
+  background-color: lightblue;
+  font-weight: 700;
+}
